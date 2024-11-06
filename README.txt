@@ -7,3 +7,8 @@ KRAKEN TV APK ACTUALIZACION
 -con la actualizacion pierde compatibilidad con tv box, tv stick y smart tv chinas genericas.
 -se recomienda adquirir solo dispositivos certificados con android tv y google tv.
 ----------------------------------------------------------------------------------------------
+
+31 de octubre 2024- zona tv box v2.0.2
+-actualizacion reinicio de dispositivos
+-tiene que volver a ingresar el codigo de usuario generado en zona tv box y agregarlo a kraken tv
+para agregar y activar sus dispositivo actual.
